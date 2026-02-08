@@ -1,0 +1,16 @@
+%%writefile config_vein_analysis.yaml
+metrics:
+  length: true
+  length_true_max: true
+  width: true
+  width_true_max: true
+  area: true
+  perimeter: true
+  aspect_ratio: false
+  extent: false
+  solidity: false
+  circularity: true
+  fractal_dim: false
+  fourier: false
+  vein_analysis: true
+  show_widths: true
