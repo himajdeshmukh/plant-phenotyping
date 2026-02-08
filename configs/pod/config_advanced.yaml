@@ -1,0 +1,15 @@
+%%writefile config_advanced.yaml
+metrics:
+  area: true
+  length: true
+  width: true
+  perimeter: true
+  elongation: true
+  straightness: true
+  shape_complexity: true
+  fractal_dim: true
+  fourier: true
+  fourier_n: 10
+  volume: true
+  uniformity: true
+min_obj_size: 200
