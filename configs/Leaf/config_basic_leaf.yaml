@@ -1,0 +1,17 @@
+%%writefile config_basic.yaml
+metrics:
+  area: true
+  length: true
+  length_true_max: true
+  width_mean: true
+  width_max: true
+  width_true_max: true
+  width_min: true
+  perimeter: true
+  aspect_ratio: true
+  extent: true
+  solidity: true
+  circularity: true
+  fractal_dim: true
+  fourier: false
+  show_widths: false
