@@ -1,0 +1,14 @@
+%%writefile config_basic.yaml
+metrics:
+  area: true
+  length: true
+  width: true
+  perimeter: true
+  elongation: false
+  straightness: true
+  shape_complexity: false
+  fractal_dim: false
+  fourier: false
+  volume: false
+  uniformity: false
+min_obj_size: 200
